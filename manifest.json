@@ -1,0 +1,12 @@
+{
+   "manifest_version": 3,
+   "version": "1.0",
+   "name":"Bookmark Myfavourite List",
+   "action":{
+      "default_popup":"index.html",
+      "default_icon":"bookmark-icon.png"
+   },
+   "permissions":[
+      "tabs"
+   ]
+}
